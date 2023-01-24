@@ -1,2 +1,2 @@
-# development-kernels
-Kernels to develop and test new tasks or ideas
+# Revenue Forecasting code base
+Collection of programs used for revenue forecasting activities.
