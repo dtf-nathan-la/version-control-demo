@@ -1,3 +1,2 @@
-# Revenue Forecasting code base
+# Version control demo RFT
 
-Collection of programs used for revenue forecasting activities.
