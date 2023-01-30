@@ -1,2 +1,1 @@
-# Version control demo RFT
-
+# Version control demo for revenue forecasting
